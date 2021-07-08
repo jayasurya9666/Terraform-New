@@ -1,3 +1,1 @@
 # Terraform
-# JayaSurya
-# Surya
